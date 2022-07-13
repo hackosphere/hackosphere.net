@@ -1,2 +1,2 @@
 # hackosphere.net
-dev network project under hackosphere.org
+dev NETwork project under hackosphere.org
